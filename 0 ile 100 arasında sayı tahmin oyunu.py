@@ -30,4 +30,4 @@ while sayaç<20:
         print("********************************")
         print("/*/*/*/*/ Tahmin ettiğiniz sayılar : ",tahminler,"\*\*\*\*\*")
         print("********************************")
-        break
+        break 
